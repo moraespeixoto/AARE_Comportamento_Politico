@@ -1,8 +1,9 @@
 ---
 # AARE COMPORTAMENTO ELEITORAL E COMPETIÇÃO PELO VOTO
 
-authores: Vitor Peixoto
-          Renato Barreto
+
+autores: Vitor Peixoto
+         Renato Barreto
 
         
 
