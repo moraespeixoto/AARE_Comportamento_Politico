@@ -3,7 +3,6 @@ title: "AARE COMPORTAMENTO ELEITORAL E COMPETIÇÃO PELO VOTO"
 author: "Vitor Peixoto e Renato Barreto"
 
         
-date: "2º semestre de 2020"
 
 output: html_document
 ---
