@@ -35,16 +35,22 @@ Na segunda parte serão tratados temas como conceitos de partidos políticos e a
 
 Por fim, abordar-se-ão comportamentos dos governos no que tange aos gastos públicos sociais e os impactos nas chances de reeleição.
 
+
+![Figura 1](E:/AARE_Comportamento_politico/AARE_Comportamento_Politico2/venn.png)
+
 Destarte, os principais temas de análise nesta disciplina podem ser resumidos da seguinte forma: teorias do comportamento eleitoral, ciclos eleitorais dos gastos sociais e reeleição.
+
 
 
 # Conteúdo programático (contempla bibliografia obrigatória e complementar)
 
+
 ### 1º encontro:
+
 
 Apresentação do curso as motivações, estabelcimento de regras, alertas sobre possíveis mudanças no decorrer do curso, esclarecimentos sobre processo de avaliação contínuo e final.
 
-  ####Leitura obrigatória:
+#### Leitura obrigatória:
   
   ASSIS, Machado. À opinião Pública. In: Obra Completa de Machado de Assis, Edições W.M. Jackson, 1937. Publicado originalmente em Diário do Rio de Janeiro, Rio de Janeiro, 1867. [LINK](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjEoq3lsPjqAhU1GbkGHcaOC7sQFjAAegQIAxAB&url=http%3A%2F%2Fmachado.mec.gov.br%2Fobra-completa-lista%2Fitem%2Fdownload%2F57_51493500c619499d4be6eb28d2c9e146&usg=AOvVaw19hU-EvdzyoyEOwv7IC3B3)
 
@@ -54,8 +60,7 @@ Apresentação do curso as motivações, estabelcimento de regras, alertas sobre
 
 ### 2º encontro: origem e evolução das teorias do comportamento eleitoral
  
-BARTELS, L. The study of electoral behavior of American elections and political behavior, 2008. Disponível em: 
-http://books.google.com.br/books?hl=pt-PT&lr=&id=0PLNhGk-MlgC&oi=fnd&pg=PA239&dq=bartels+the+study+of+electoral+behavior&ots=qAL6IhMM67&sig=PdKWFZ6sNh65vsYeJ_ezCdbkAjA
+BARTELS, L. The study of electoral behavior of American elections and political behavior, 2008. [LINK](http://books.google.com.br/books?hl=pt-PT&lr=&id=0PLNhGk-MlgC&oi=fnd&pg=PA239&dq=bartels+the+study+of+electoral+behavior&ots=qAL6IhMM67&sig=PdKWFZ6sNh65vsYeJ_ezCdbkAjA)
 
 CONVERSE, Philip. Researching Electoral Politics. The American Political Science Review, Vol. 100, No. 4.
 
