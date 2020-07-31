@@ -1,15 +1,8 @@
 ---
-title: "AARE COMPORTAMENTO ELEITORAL E COMPETIÇÃO PELO VOTO"
+#"AARE COMPORTAMENTO ELEITORAL E COMPETIÇÃO PELO VOTO"
 author: "Vitor Peixoto e Renato Barreto"
 
         
-
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 # Ementa
 
