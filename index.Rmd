@@ -26,7 +26,7 @@ Teorias clássicas do comportamento eleitoral: teoria sociologia do voto, teoria
 # Apresentação
 
 
-O curso aborda a interseção entre três grandes dimensões da análise de sistemas políticos democráticos: governos, comportamento eleitoral e partidos políticos. O plano de voo é partir dos estudos sobre comportamento dos eleitores e aterrissar nos estudos sobre estratégias dos partidos políticos nas administrações públicas subnacionais com vistas à reeleição com escalas em trabalhos que abordaram ideologia partidária e gastos públicos.
+O curso aborda a interseção entre três grandes dimensões da análise de sistemas políticos democráticos: governos, comportamento eleitoral e partidos políticos. O plano de voo é partir dos estudos sobre comportamento dos eleitores e aterrissar nos estudos sobre estratégias dos partidos políticos nas administrações públicas subnacionais com vistas à reeleição com escalas em trabalhos que abordaram ideologia partidária e gastos públicos no Brasil.
 
 
 ```{r pressure, echo=FALSE}
@@ -107,9 +107,6 @@ LEWIS-BECK, Michael and STEGMAIER, Mary. "Economic Models of Voting" The Oxford 
 
 
 
-
-
-
 ## II) PARTIDOS 
 
 
@@ -122,6 +119,25 @@ PANEBIANCO, Angelo; DE PARTIDO, Modelos. Organização e poder nos partidos pol�
 SEILER, Daniel-Louis. Os partidos políticos. UnB, 2000.
 
 
+### 6º encontro: Identificacao partidaria e o voto no Brasil
+
+
+DALTON, Russell J. (2000), "The Decline of Party Identifications", in R. J. Dalton e M. Wattenberg (eds.), Parties without Partisans – Political Changes in Advanced Industrial Democracies. Oxford, Oxford University Press. 
+
+CARREIRAO, Yan de Souza; KINZO, Maria D'Alva G.. Partidos políticos, preferência partidária e decisão eleitoral no Brasil (1989/2002). Dados,  Rio de Janeiro ,  v. 47, n. 1, p. 131-167,    2004 . [LINK](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582004000100004&lng=en&nrm=iso)
+
+BORBA, Julian. Cultura política, ideologia e comportamento eleitoral: alguns apontamentos teóricos sobre o caso brasileiro. Opin. Publica,  Campinas ,  v. 11, n. 1, p. 147-168,  Mar.  2005 .  [LINK](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762005000100006&lng=en&nrm=iso)
+
+GIMENES, Éder Rodrigo et al. Partidarismo no Brasil: Análise longitudinal dos condicionantes da identificação partidária (2002-2014). 2016. [LINK](http://bibliotecadigital.tse.jus.br/xmlui/handle/bdtse/2493)
+
+VEIGA, Luciana Fernandes. O partidarismo no Brasil (2002/2010). Opin. Publica,  Campinas ,  v. 17, n. 2, p. 400-425,  Nov.  2011 .   [LINK](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762011000200005&lng=en&nrm=iso) 
+
+
+### 7º encontro: Voto economico no Brasil
+
+VEIGA, Luciana Fernandes; ROSS, Steven Dutt. Os determinantes da avaliação da economia na eleição presidencial brasileira em 2014. Opin. Publica,  Campinas ,  v. 22, n. 3, p. 524-549,  Dec.  2016 .   [LINK](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762016000300524&lng=en&nrm=iso)
+
+
 
 
 
@@ -129,7 +145,7 @@ SEILER, Daniel-Louis. Os partidos políticos. UnB, 2000.
 
 
 
-### 6º encontro: Partidos, ideologia e Politicas Sociais
+### 8º encontro: Partidos, ideologia e Politicas Sociais
 
 BATISTA, Cristiane. Partidos políticos, ideologia e política social na América Latina: 1980-1999. Dados,  Rio de Janeiro ,  v. 51, n. 3, p. 647-686,    2008 .  [LINK](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582008000300004&lng=en&nrm=iso)
 
@@ -142,7 +158,9 @@ ARRETCHE, Marta. Federalismo e igualdade territorial: uma contradição em termo
 
 
 
-### 7º encontro: Modelos de avaliação e política de gastos dos partidos políticos
+### 9º encontro: Modelos de avaliação e política de gastos dos partidos políticos
+
+
 
 
 LAVAREDA, Antonio. Emoções ocultas e estratégias eleitorais. Ed. Objetiva, Rio de Janeiro, 2009.
@@ -156,7 +174,7 @@ MENEGUIN, Fernando B.; BUGARIN, Maurício; CARVALHO, Alexandre X. de. O que leva
 
 
 
-### 8º encontro: instituições eleitorais e reeleição 
+### 10º encontro: instituições eleitorais e reeleição 
 
 
 ARAUJO JUNIOR, Ari Francisco de; CANÇADO, Paulo; SHIKIDA, Cláudio Djissey. ECONOMICS AND POLITICS: o que determina as chances de reeleição em municípios? o caso das eleições municipais de minas gerais – 2000. Informe Gepec, Cascavél, v. 9, n. 2, p. 1-22, 2005. [LINK](http://e-revista.unioeste.br/index.php/gepec/article/view/305/221)
@@ -170,7 +188,7 @@ MENDES, Marcos; ROCHA, Carlos Alexandre Amorim. Reeleição sob informação imp
 OLIVEIRA, Adriano; SANTOS, Roberto. BOAS ADMINISTRAÇÕES ELEGEM CANDIDATOS?: uma análise do comportamento dos eleitores em sete capitais brasileiras nas eleições de 2008. Revista Debates, Porto Alegre, v. 3, n. 2, p. 116-138, 2009. [LINK](https://www.seer.ufrgs.br/debates/article/viewFile/10115/6850)
 
 
-### 9º encontro: Morfologia das Reeleições de prefeitos no Brasil
+### 11º encontro: Morfologia das Reeleições de prefeitos no Brasil
  
 BARRETO, Alvaro Augusto de Borba. Reeleição para o executivo municipal no brasil (2000-2008). Revista debates, Porto Alegre, v.3, n.2, p. 97-115, jul.-dez. 2009 [LINK](http://bibliotecadigital.tse.jus.br/xmlui/bitstream/handle/bdtse/6603/2009_barreto_reeleicao_executivo_municipal.pdf?sequence=1)
 
@@ -181,7 +199,7 @@ ______________. CABEÇA E CORPO: INCUMBENT VERSUS PARTIDO NAS ELEIÇÕES MUNICIP
 
 
 
-### 10º encontro: Teorias normativas e reeleição: o que é ser um bom prefeito?
+### 12º encontro: Teorias normativas e reeleição: o que é ser um bom prefeito?
 
 CAVALCANTE, Pedro. Vale a pena ser um bom prefeito? Comportamento eleitoral e reeleição no Brasil. Opinião Pública, Campinas, vol. 21, nº 1, p. 87-104, abr. 2015. [LINK](https://www.scielo.br/scielo.php?pid=S0104-62762015000100087&script=sci_arttext&tlng=pt) 
 
